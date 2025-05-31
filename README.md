@@ -29,7 +29,6 @@ The client needed to understand their quantity performance, identify areas for i
 - Designing multi-layered dashboards for operational and strategic storytelling
 
 ## 🔗 Dashboard  
-**[View Full Power BI Dashboard](#)**  
-*(Replace with SharePoint/public link or upload as image/GIF)*
-
-![Dashboard Screenshot](./screenshot.png)  
+**[View Full Power BI Dashboard](https://app.powerbi.com/groups/me/reports/de3e9b70-5679-41a5-a696-398d6834d075/f4fa4dfcff39fefd43db?experience=power-bi)**  
+  
+![Power BI Desktop 5_30_2025 7_10_21 PM](https://github.com/user-attachments/assets/2f928959-8b6c-4365-815f-054091cc5c1a)
